@@ -1,2 +1,2 @@
 # Landing-page
- Landing page example
+ Landing page example from The Odin Project (https://www.theodinproject.com/)
